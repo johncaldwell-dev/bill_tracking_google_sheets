@@ -1,6 +1,0 @@
-services:
-  billtrackinggooglesheets:
-    image: billtrackinggooglesheets
-    build:
-      context: .
-      dockerfile: ./Dockerfile
